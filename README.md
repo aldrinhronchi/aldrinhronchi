@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aldrin H. Carvalho Ronchi</h1>
+<h1 align="center">Hi 👋, I'm Aldrin H. Ronchi</h1>
 <h3 align="center">A FullStack Developer in Training from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldrinhronchi&label=Profile%20views&color=0e75b6&style=flat" alt="aldrinhronchi" /> </p>
