@@ -3,19 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldrinhronchi&label=Profile%20views&color=0e75b6&style=flat" alt="aldrinhronchi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_kaibatsu" target="blank"><img src="https://img.shields.io/twitter/follow/_kaibatsu?logo=twitter&style=for-the-badge" alt="_kaibatsu" /></a> </p>
-
-- 🌱 I’m currently learning **C# and AngularJS**
-
-- 🤝 I’m looking for help with **a job!**
+- 🌱 I’m currently learning **C# and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aldrinhronchi](https://github.com/aldrinhronchi)
 
-- 💬 Ask me about **C#, Python**
+- 💬 Ask me about **.NET, Python**
 
 - 📫 How to reach me **work.aldrinronchi@gmail.com**
 
-- 📄 Know about my experiences [https://aldrinhronchi.github.io](https://aldrinhronchi.github.io)
+- 📄 Know about my experiences (on work) [https://aldrinhronchi.github.io](https://aldrinhronchi.github.io)
 
 - ⚡ Fun fact **I like Horror's Stories like my life!**
 
