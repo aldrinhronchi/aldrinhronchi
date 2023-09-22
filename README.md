@@ -1,28 +1,62 @@
-<h1 align="center">Hi 👋, I'm Aldrin H. Ronchi</h1>
-<h3 align="center">A FullQuack Developer using Angular and .Net</h3>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Aldrin Ronchi</h1>
+<h3 align="center">I'm a FullQuack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aldrinhronchi&label=Profile%20views&color=0e75b6&style=flat" alt="aldrinhronchi" /> </p>
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-- 🔭 I’m currently working on **my Portfolium**
+<img align="right"
+src="https://visitcount.itsvg.in/api?id=aldrinhronchi&icon=0&color=6">
 
-- 🌱 I’m currently learning **Angular and .Net**
+## **🤔 About:**
 
-- 💬 Ask me about **.NET, Python**
+```diff
+@@I'm a lover of technology and animes@@
 
-- 📫 How to reach me **work.aldrinronchi@gmail.com**
++ Living in Santa Catarina, Brazil 🇧🇷 JA PODE AO MOSSAR?
+- 23 years old (and i wonder how much more...)
+! C# and Angular programmer and always studying some technology
+# Interested in Node, MSQL, Automation stuff and how cookies are made
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_kaibatsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_kaibatsu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aldrin-ronchi-538320172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldrin-ronchi-538320172" height="30" width="40" /></a>
-<a href="https://instagram.com/aldrin.ronchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aldrin.ronchi" height="30" width="40" /></a>
-</p>
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldrinhronchi&show_icons=true&theme=dark&locale=en&layout=compact" alt="aldrinhronchi" /></p>
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldrinhronchi&show_icons=true&theme=dark&locale=en" alt="aldrinhronchi" /></p>
+# 🔗 Connect with me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldrinhronchi&theme=dark" alt="aldrinhronchi" /></p>
+ <a href="mailto:work.aldrinronchi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/aldrin-ronchi-538320172/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://linktr.ee/sethkaiba" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+# 📊 GitHub Stats:
+
+<div align="center">
+<a href="https://github.com/aldrinhronchi">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldrinhronchi&hide=stars,issues&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldrinhronchi&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldrinhronchi&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldrinhronchi&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldrinhronchi&theme=radical" height="180em" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aldrinhronchi&theme=radical&date_format=j%20M%5B%20Y%5D" height="180em"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
