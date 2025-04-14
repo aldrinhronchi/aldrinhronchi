@@ -13,7 +13,7 @@ src="https://visitcount.itsvg.in/api?id=aldrinhronchi&icon=0&color=6">
 @@I'm a lover of technology and animes@@
 
 + Living in Santa Catarina, Brazil 🇧🇷 JA PODE AO MOSSAR?
-- 23 years old (and i wonder how much more...)
+- 24 years old (and i wonder how much more...)
 ! C# and Angular programmer and always studying some technology
 # Interested in Node, MSQL, Automation stuff and how cookies are made
 ```
